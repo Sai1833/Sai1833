@@ -49,9 +49,9 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering College, 2023–2027)
 
 ### `> Featured Projects`
 
-- 🔗 **Smart Safety Helmet for Miners:** Designed an underground safety system utilizing LoRa modules, environmental sensors, and a gateway station.
-- 🔗 **IoT Assisted Solar System:** Developed a cloud-based dashboard integration for transmitting and monitoring solar inverter data.
-- 🔗 **Integrated Emergency Response System:** Built an ambulance traffic signal override mechanism combined with health monitoring.
+- 🔗 **[Smart Ambulance System](https://github.com/Sai1833/Smart-Ambulance-System):** Built an ambulance traffic signal override mechanism combined with health monitoring.
+- 🔗 **[Smart Safety Helmet for Miners](https://github.com/Sai1833/Smart-Safety-Helmet-for-Miners):** Designed an underground safety system utilizing LoRa modules, environmental sensors, and a gateway station.
+
 
 ---
 
