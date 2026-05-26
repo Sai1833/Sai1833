@@ -83,7 +83,7 @@ Motto    : "Build systems that think, sense & survive."
 
 <!-- ═══════════════════ EXPERIENCE ═══════════════════ -->
 
-## `> cat experience.log`
+## `> Experience`
 
 **🏢 Blue Planet InfoSolutions Pvt. Ltd.** · *Embedded Systems Development Intern* · `Jun 2025 – Dec 2025` · Remote
 
