@@ -47,7 +47,7 @@ CGPA     : 8.5 (B.Tech ECE, 2023–2027)
 - Designed PCB with KiCad + Proteus, built 10-slot prototype
 - Created 3D enclosure with Fusion 360, integrated IoT via ESP32
 
-
+---
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai747)
