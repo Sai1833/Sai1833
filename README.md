@@ -16,7 +16,7 @@ Role     : Embedded Systems Engineer
 Focus    : Embedded C · IoT · PCB Design
 Status   : 🟢 Open to Opportunities
 Patents  : 3 Applied
-CGPA     : 8.5 (B.Tech ECE, 2023–2027)
+CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering Collage , 2023–2027)
 ```
 
 ---
