@@ -27,19 +27,12 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering College, 2023–2027)
 
 ### `> Tech Stack`
 
-**Languages & Core:**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=flat-square&logo=c&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-333333?style=flat-square)
-
-**Hardware :**  
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![LoRa](https://img.shields.io/badge/LoRa-8B5CF6?style=flat-square&logoColor=white)
-
-**Design & Tools:**  
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1BA0D7?style=flat-square&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6B00?style=flat-square&logo=autodesk&logoColor=white)
