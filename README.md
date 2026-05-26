@@ -38,7 +38,6 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering College, 2023–2027)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6B00?style=flat-square&logo=autodesk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
