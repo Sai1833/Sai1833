@@ -13,7 +13,6 @@
 ```yaml
 Name     : Mavuri Jnana Sai Sri Prakash
 Role     : Embedded Systems Engineer
-Location : Andhra Pradesh, India
 Focus    : Embedded C · IoT · PCB Design
 Status   : 🟢 Open to Opportunities
 Patents  : 3 Applied
