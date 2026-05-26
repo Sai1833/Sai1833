@@ -54,7 +54,6 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering Collage, 2023–2027)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sai1833&color=00ff9d&style=flat-square)
 
 </div>
 
