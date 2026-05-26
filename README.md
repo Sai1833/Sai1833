@@ -43,7 +43,6 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering College, 2023–2027)
 ![MQTT](https://img.shields.io/badge/MQTT-ff6b35?style=flat-square&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
