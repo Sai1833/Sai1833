@@ -1,17 +1,24 @@
+
 <div align="center">
 
-# Hello👋 I'm Sai Prakash
+<!-- ═══════════════════ HEADER ═══════════════════ -->
+# Hello im Sai Prakash
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%94%A7+Embedded+Systems+Engineer;%F0%9F%93%A1+IoT+%7C+PCB+%7C+Mesh+Networks+Architect;%E2%9A%A1+ESP32+%7C+Arduino+%7C+LoRa+%7C+KiCad;%F0%9F%92%A1+I+don't+just+build+projects...+I+build+patents.)](https://git.io/typing-svg)
+
 </div>
+
+---
 
 ### `> WhoAmI`
 
 ```yaml
 Name     : Mavuri Jnana Sai Sri Prakash
 Role     : Embedded Systems Engineer
+Location : Andhra Pradesh, India
 Focus    : Embedded C · IoT · PCB Design
 Status   : 🟢 Open to Opportunities
 Patents  : 3 Applied
-CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering Collage , 2023–2027)
+CGPA     : 8.5 (B.Tech ECE, 2023–2027)
 ```
 
 ---
@@ -42,6 +49,7 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering Collage , 2023–2027)
 - Created 3D enclosure with Fusion 360, integrated IoT via ESP32
 
 ---
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai747)
@@ -49,4 +57,15 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering Collage , 2023–2027)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00ff9d?style=flat-square&logo=github&logoColor=black)](https://github.com/Sai1833)
 
 <br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sai1833&color=00ff9d&style=flat-square)
+
 </div>
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=120&section=footer&animation=fadeIn)
+
+<div align="center">
+  <sub>⚡ Crafted with circuits, code & curiosity · Mavuri Jnana Sai Sri Prakash</sub>
+</div>
+```
