@@ -3,13 +3,16 @@
 
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 # Hello👋 I'm Sai Prakash
-### Embedded Systems · IoT 🎯
 
-</div>
+### Embedded Systems · IoT
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai747)
 [![Gmail](https://img.shields.io/badge/Email-Hello-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saiprakash0450@gmail.com)
+
+
+</div>
 
 </div>
 
@@ -24,7 +27,7 @@ Location : Andhra Pradesh, India
 Focus    : Embedded C · IoT · PCB Design
 Status   : 🟢 Open to Opportunities
 Patents  : 3 Applied
-CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering Collage, 2023–2027)
+CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering College, 2023–2027)
 ```
 
 ---
@@ -46,6 +49,14 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering Collage, 2023–2027)
 
 ---
 
+### `> Featured Projects`
+
+- 🔗 **Smart Safety Helmet for Miners:** Designed an underground safety system utilizing LoRa modules, environmental sensors, and a gateway station.
+- 🔗 **IoT Assisted Solar System:** Developed a cloud-based dashboard integration for transmitting and monitoring solar inverter data.
+- 🔗 **Integrated Emergency Response System:** Built an ambulance traffic signal override mechanism combined with health monitoring.
+
+---
+
 ### `> Experience`
 
 **Blue Planet InfoSolutions Pvt. Ltd.** · *Embedded Systems Intern* · `Jun – Dec 2025` · Remote
@@ -56,4 +67,5 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering Collage, 2023–2027)
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=120&section=footer&animation=fadeIn)
+
 ```
