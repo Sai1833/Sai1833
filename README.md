@@ -59,7 +59,7 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering College, 2023–2027)
 
 **Blue Planet InfoSolutions Pvt. Ltd.** · *Embedded Systems Intern* · `Jun – Dec 2025` · Remote
 
-- Led hardware development of *QR Pill Box* smart medication system
+- Led hardware development of **[QR Pill Box](https://github.com/Sai1833/Smart-Pill-Box-IoT)** smart medication system
 - Designed PCB with KiCad + Proteus, built 10-slot prototype
 - Created 3D enclosure with Fusion 360, integrated IoT via ESP32
 
