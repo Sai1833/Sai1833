@@ -94,20 +94,6 @@ Motto    : "Build systems that think, sense & survive."
 
 ---
 
-<!-- ═══════════════════ CURRENTLY WORKING ON ═══════════════════ -->
-
-## `> ps aux | grep current`
-
-```bash
-[ACTIVE]  Expanding patent portfolio — IoT & Embedded innovations
-[ACTIVE]  Deep diving into LoRa mesh optimization algorithms
-[ACTIVE]  Exploring RTOS (FreeRTOS) for multi-task embedded systems
-[ACTIVE]  B.Tech ECE — CGPA 8.5 | Sri Rama Krishnam Raju Engg. College
-[QUEUE]   Contributing to open-source embedded projects
-```
-
----
-
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
 ## `> ping contact`
@@ -123,8 +109,6 @@ Motto    : "Build systems that think, sense & survive."
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-00ff9d?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sai1833)
 
 <br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Sai1833&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
