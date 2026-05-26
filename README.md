@@ -4,7 +4,7 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 # Hello👋 I'm Sai Prakash
 
-### Embedded Systems · IoT
+### Embedded Systems · IoT 🎯
 
 <div align="center">
 
