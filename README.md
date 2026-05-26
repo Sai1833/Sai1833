@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════ CAPSULE HEADER BANNER ═══════════════════ -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=200&section=header&text=Sai%20Sri%20Prakash&fontSize=50&fontColor=00ff9d&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Patent%20Inventor&descAlignY=60&descColor=ffffff&animation=fadeIn)
 
 <!-- ═══════════════════ ANIMATED TYPING SVG ═══════════════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%94%A7+Embedded+Systems+Engineer;%F0%9F%93%A1+IoT+%7C+RF+%7C+Mesh+Networks+Architect;%F0%9F%94%AC+Research+Driven+%7C+3+Patents+Filed;%E2%9A%A1+ESP32+%7C+Arduino+%7C+LoRa+%7C+KiCad;%F0%9F%8C%90+Turning+Ideas+into+Patented+Hardware)](https://git.io/typing-svg)
