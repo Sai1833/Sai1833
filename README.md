@@ -63,9 +63,6 @@ CGPA     : 8.5 (B.Tech ECE, 2023–2027)
 
 <div align="center">
 
-```
-```
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai747)
 [![Gmail](https://img.shields.io/badge/Email-Hello-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saiprakash0450@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00ff9d?style=flat-square&logo=github&logoColor=black)](https://github.com/Sai1833)
