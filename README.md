@@ -1,12 +1,10 @@
-Here is the minimal version of your GitHub profile README, with a clean header and a compact, icon-focused tech stack.
 
-```markdown
 <div align="center">
 
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 # Mavuri Jnana Sai Sri Prakash
 
-### Embedded Systems · IoT · Patent Inventor
+### Embedded Systems · IoT
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%94%A7+Embedded+Systems+Engineer;%F0%9F%93%A1+IoT+%7C+PCB+%7C+Mesh+Networks+Architect;%E2%9A%A1+ESP32+%7C+Arduino+%7C+LoRa+%7C+KiCad;%F0%9F%92%A1+I+don't+just+build+projects...+I+build+patents.)](https://git.io/typing-svg)
 
