@@ -24,7 +24,6 @@ Role     : Embedded Systems Engineer
 Location : Andhra Pradesh, India
 Focus    : Embedded C · IoT · PCB Design
 Status   : 🟢 Open to Opportunities
-Patents  : 3 Applied
 CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering College, 2023–2027)
 ```
 
@@ -40,7 +39,6 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering College, 2023–2027)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6B00?style=flat-square&logo=autodesk&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1BA0D7?style=flat-square&logoColor=white)
 ![LoRa](https://img.shields.io/badge/LoRa-8B5CF6?style=flat-square&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-ff6b35?style=flat-square&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white)
 
