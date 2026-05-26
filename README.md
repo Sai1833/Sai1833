@@ -1,7 +1,5 @@
-
 <div align="center">
 
-<!-- ═══════════════════ HEADER ═══════════════════ -->
 # Hello👋 I'm Sai Prakash
 
 ### Embedded Systems · IoT 🎯
@@ -65,7 +63,6 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering College, 2023–2027)
 - Designed PCB with KiCad + Proteus, built 10-slot prototype
 - Created 3D enclosure with Fusion 360, integrated IoT via ESP32
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=120&section=footer&animation=fadeIn)
 
-```
