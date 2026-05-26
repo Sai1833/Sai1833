@@ -3,14 +3,13 @@
 
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 # Hello im Sai Prakash
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%94%A7+Embedded+Systems+Engineer;%F0%9F%93%A1+IoT+%7C+PCB+%7C+Mesh+Networks+Architect;%E2%9A%A1+ESP32+%7C+Arduino+%7C+LoRa+%7C+KiCad;%F0%9F%92%A1+I+don't+just+build+projects...+I+build+patents.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### `> Whoami`
+### `> WhoAmI`
 
 ```yaml
 Name     : Mavuri Jnana Sai Sri Prakash
@@ -24,7 +23,7 @@ CGPA     : 8.5 (B.Tech ECE, 2023–2027)
 
 ---
 
-### `> tech_stack`
+### `> Tech Stack`
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -41,7 +40,7 @@ CGPA     : 8.5 (B.Tech ECE, 2023–2027)
 
 ---
 
-### `> experience`
+### `> Experience`
 
 **Blue Planet InfoSolutions Pvt. Ltd.** · *Embedded Systems Intern* · `Jun – Dec 2025` · Remote
 
@@ -57,10 +56,4 @@ CGPA     : 8.5 (B.Tech ECE, 2023–2027)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00ff9d?style=flat-square&logo=github&logoColor=black)](https://github.com/Sai1833)
 
 <br/>
-
-</div>
-</div>
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=120&section=footer&animation=fadeIn)
- 
 </div>
