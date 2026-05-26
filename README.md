@@ -94,28 +94,7 @@ Motto    : "Build systems that think, sense & survive."
 
 ---
 
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
-
-## `> ping contact`
-
-<div align="center">
-
-```
-
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai747)
-[![Gmail](https://img.shields.io/badge/Email-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiprakash0450@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-00ff9d?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sai1833)
-
-<br/>
-
-</div>
-
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=120&section=footer&animation=fadeIn)
 
-<div align="center">
-  <sub>⚡ Crafted with circuits, code & curiosity · Mavuri Jnana Sai Sri Prakash</sub>
-</div>
-```
+
