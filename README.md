@@ -4,21 +4,13 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 # Hello im Sai Prakash
 
-### Embedded Systems · IoT
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%94%A7+Embedded+Systems+Engineer;%F0%9F%93%A1+IoT+%7C+PCB+%7C+Mesh+Networks+Architect;%E2%9A%A1+ESP32+%7C+Arduino+%7C+LoRa+%7C+KiCad;%F0%9F%92%A1+I+don't+just+build+projects...+I+build+patents.)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai747)
-[![GitHub](https://img.shields.io/badge/GitHub-00ff9d?style=flat-square&logo=github&logoColor=black)](https://github.com/Sai1833)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saiprakash0450@gmail.com)
 
 </div>
 
 ---
 
-### `> whoami`
+### `> Whoami`
 
 ```yaml
 Name     : Mavuri Jnana Sai Sri Prakash
@@ -57,9 +49,6 @@ CGPA     : 8.5 (B.Tech ECE, 2023–2027)
 - Designed PCB with KiCad + Proteus, built 10-slot prototype
 - Created 3D enclosure with Fusion 360, integrated IoT via ESP32
 
----
-
-### `> Ping Contact`
 
 <div align="center">
 
@@ -69,7 +58,9 @@ CGPA     : 8.5 (B.Tech ECE, 2023–2027)
 
 <br/>
 
-
-
 </div>
-
+</div>
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=120&section=footer&animation=fadeIn)
+ 
+</div>
