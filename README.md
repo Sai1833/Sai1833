@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- ═══════════════════ HEADER ═══════════════════ -->
-# Mavuri Jnana Sai Sri Prakash
+# Hello im Sai Prakash
 
 ### Embedded Systems · IoT
 
@@ -26,8 +26,8 @@ Role     : Embedded Systems Engineer
 Location : Andhra Pradesh, India
 Focus    : Embedded C · IoT · PCB Design
 Status   : 🟢 Open to Opportunities
-Patents  : ⚖️ 3 Applied
-CGPA     : 8.5 / 10.0  (B.Tech ECE, 2023–2027)
+Patents  : 3 Applied
+CGPA     : 8.5 (B.Tech ECE, 2023–2027)
 ```
 
 ---
@@ -59,23 +59,11 @@ CGPA     : 8.5 / 10.0  (B.Tech ECE, 2023–2027)
 
 ---
 
-### `> ps aux | grep current`
-
-```bash
-[ACTIVE]  Expanding patent portfolio — IoT & Embedded
-[ACTIVE]  Deep diving into LoRa mesh optimization
-[ACTIVE]  Exploring FreeRTOS for multi-task systems
-[QUEUE]   Contributing to open-source embedded projects
-```
-
----
-
-### `> ping contact`
+### `> Ping Contact`
 
 <div align="center">
 
 ```
-Let's build something that gets PATENTED 🚀
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai747)
@@ -84,13 +72,7 @@ Let's build something that gets PATENTED 🚀
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sai1833&color=00ff9d&style=flat-square)
+
 
 </div>
 
----
-
-<div align="center">
-  <sub>⚡ Crafted with circuits, code & curiosity · Mavuri Jnana Sai Sri Prakash</sub>
-</div>
-```
