@@ -6,7 +6,12 @@
 ### Embedded Systems · IoT
 
 </div>
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai747)
+[![Gmail](https://img.shields.io/badge/Email-Hello-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saiprakash0450@gmail.com)
+
+</div>
 ---
 
 ### `> WhoAmI`
@@ -47,15 +52,6 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering Collage, 2023–2027)
 - Led hardware development of *OR Pill Box* smart medication system
 - Designed PCB with KiCad + Proteus, built 10-slot prototype
 - Created 3D enclosure with Fusion 360, integrated IoT via ESP32
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai747)
-[![Gmail](https://img.shields.io/badge/Email-Hello-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saiprakash0450@gmail.com)
-
-</div>
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=120&section=footer&animation=fadeIn)
