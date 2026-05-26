@@ -2,7 +2,6 @@
 
 # Hello👋 I'm Sai Prakash
 </div>
----
 
 ### `> WhoAmI`
 
