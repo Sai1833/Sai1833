@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- ═══════════════════ HEADER ═══════════════════ -->
@@ -56,4 +55,9 @@ CGPA     : 8.5 (B.Tech ECE, 2023–2027)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00ff9d?style=flat-square&logo=github&logoColor=black)](https://github.com/Sai1833)
 
 <br/>
+</div><!-- ═══════════════════ FOOTER ═══════════════════ -->
+https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=120&section=footer&animation=fadeIn
+
+<div align="center"> <sub>⚡ Crafted with circuits, code & curiosity · Mavuri Jnana Sai Sri Prakash</sub> </div> ```
+
 </div>
