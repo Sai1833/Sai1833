@@ -2,15 +2,11 @@
 
 # Hello👋 I'm Sai Prakash
 
-### Embedded Systems · IoT 🎯
-
-<div align="center">
+### Embedded Systems · IoT · PCB Design 🎯
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai747)
 [![Gmail](https://img.shields.io/badge/Email-Hello-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saiprakash0450@gmail.com)
-
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sai1833)
 
 </div>
 
@@ -31,35 +27,46 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering College, 2023–2027)
 
 ### `> Tech Stack`
 
+**Languages & Core:**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=flat-square&logo=c&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-333333?style=flat-square)
+
+**Hardware :**  
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6B00?style=flat-square&logo=autodesk&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1BA0D7?style=flat-square&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![LoRa](https://img.shields.io/badge/LoRa-8B5CF6?style=flat-square&logoColor=white)
+
+**Design & Tools:**  
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1BA0D7?style=flat-square&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6B00?style=flat-square&logo=autodesk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white)
-
----
-
-### `> Featured Projects`
-
-- 🔗 **[Smart Ambulance System](https://github.com/Sai1833/Smart-Ambulance-System):** Built an ambulance traffic signal override mechanism combined with health monitoring.
-- 🔗 **[Smart Safety Helmet for Miners](https://github.com/Sai1833/Smart-Safety-Helmet-for-Miners):** Designed an underground safety system utilizing LoRa modules, environmental sensors, and a gateway station.
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ### `> Experience`
 
-**Blue Planet InfoSolutions Pvt. Ltd.** · *Embedded Systems Intern* · `Jun – Dec 2025` · Remote
+**Blue Planet InfoSolutions Pvt. Ltd.** · *Embedded Systems Intern*  
+`Jun – Dec 2025` · Remote
 
-- Led hardware development of **[QR Pill Box](https://github.com/Sai1833/Smart-Pill-Box-IoT)** smart medication system
-- Designed PCB with KiCad + Proteus, built 10-slot prototype
-- Created 3D enclosure with Fusion 360, integrated IoT via ESP32
+- Led end-to-end hardware development of **[QR Pill Box](https://github.com/Sai1833/Smart-Pill-Box-IoT)** — a smart IoT medication dispenser with 10-slot design.
+- Designed custom PCB using **KiCad + Proteus**, fabricated & assembled prototype in-house.
+- Modeled 3D enclosure in **Fusion 360** and integrated **ESP32** with Wi-Fi sync & scheduling logic.
+
+---
+
+### `> Featured Projects`
+
+| Project | What It Does | Key Tech |
+|---|---|---|
+| **[Smart Safety Helmet for Miners](https://github.com/Sai1833/Smart-Safety-Helmet-for-Miners)** | Real-time underground hazard monitoring & comms via LoRa gateway | ESP32, LoRa, Gas/Temp Sensors |
+| **[IoT Assisted Solar System](https://github.com/Sai1833/IoT-Assisted-Solar-System)** | Cloud dashboard for live solar inverter data monitoring | MQTT, Wi-Fi, Inverter UART |
+| **[Smart Ambulance System](https://github.com/Sai1833/Smart-Ambulance-System)** | RF-based traffic signal override + on-board health vitals monitoring | Arduino, RF 433MHz, Health Sensors |
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=120&section=footer&animation=fadeIn)
-
