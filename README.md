@@ -60,4 +60,6 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering College, 2023–2027)
 | **[Smart Safety Helmet for Miners](https://github.com/Sai1833/Smart-Safety-Helmet-for-Miners)** | Real-time underground hazard monitoring & comms via LoRa gateway | ESP32, LoRa, Gas/Temp Sensors |
 | **[IoT Assisted Solar System](https://github.com/Sai1833/IoT-Assisted-Solar-System)** | Cloud dashboard for live solar inverter data monitoring | MQTT, Wi-Fi, Inverter UART |
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9d,100:0d1117&height=120&section=footer&animation=fadeIn)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d0f,100:1e7a1e&height=110&section=footer&width=100%" width="100%"/>
+</div>
