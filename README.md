@@ -61,5 +61,5 @@ CGPA     : 8.5 (B.Tech ECE @ SRKR Engineering College, 2023–2027)
 | **[IoT Assisted Solar System](https://github.com/Sai1833/IoT-Assisted-Solar-System)** | Cloud dashboard for live solar inverter data monitoring | MQTT, Wi-Fi, Inverter UART |
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&width=100%" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d0f,100:1e7a1e&height=110&section=footer&width=100%" width="100%"/>
 </div>
